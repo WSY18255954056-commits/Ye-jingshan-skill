@@ -1,0 +1,31 @@
+{
+  "slug": "ye-jingshan",
+  "persona": "self",
+  "built_at": "2026-10-16T18:25:56Z",
+  "sources_summarized": [
+    "本人整理的个人档案与季度复盘表（原始材料不随仓库发布）",
+    "助手侧长期记忆条目（用户明确偏好、要求与澄清）",
+    "历史对话记录（用户消息与需求模式）"
+  ],
+  "platforms": [
+    "manual"
+  ],
+  "kit": "immortal-skill",
+  "dimensions": [
+    "procedure",
+    "interaction",
+    "memory",
+    "personality"
+  ],
+  "fingerprints": {
+    "SKILL.md": "e7182aeb9d87f3a0b3a510c58b775d5fe3264fe142534d3e543f2332e248225b",
+    "conflicts.md": "45a61db45c82e8641ddc562b6dac62c87bf9d30a94a354067f1b5cf7491dff4e",
+    "interaction.md": "c637c2fa3e533e92ffdfb90a242f6160d3457878010ff007f53329cfee1ecae4",
+    "memory.md": "ead521a85ff3a33df9ec6270e75567611ec932ce0d40b14b12b161e5cdcc6398",
+    "personality.md": "d256e2b83edf1fb6e59e6a2304a926b6d6e9039b67bdc30b74b4a2c51c955034",
+    "procedure.md": "48ceef4e2b47ddd58c100708b3aeb838ed64d0224eaa145aba9038330e547ec4"
+  },
+  "note": "公开发布版：已做隐私脱敏，并改为需披露的风格模拟（不冒充本人）。安装需用 App 导入 zip。",
+  "identity_mode": "style-simulation-with-disclosure",
+  "sanitized": "public"
+}
